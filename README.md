@@ -1,6 +1,6 @@
-![image](https://github.com/pjlkauan/arraia-do-kauan/assets/134704199/1fb8d977-476c-4e6a-b743-24de1a00e200) arraia-do-nego  
 
 ![](https://github.com/pjlkauan/arraia-do-kauan/assets/134704199/5deabb78-e37d-4de4-a891-eb9ded002590)
+**Arraia Do Nego**
 
 ![](https://github.com/pjlkauan/arraia-do-kauan/assets/134704199/6620ba14-314a-4a64-be98-d66dff6517a5)
 paçaoca 4,00
@@ -23,3 +23,10 @@ bolo de milho 5,00
 cural 3,50
 
 ![](https://github.com/pjlkauan/arraia-do-kauan/assets/134704199/1c056e06-cb9d-4c93-8d94-2dee5d4d228d)
+quentao 3,0
+
+![](https://github.com/pjlkauan/arraia-do-kauan/assets/134704199/80af84a8-c572-4f3b-ae46-7084deb6e7ce)
+cha de amendoin 5,00
+
+rua pica pau n240
+campo mourao parana
